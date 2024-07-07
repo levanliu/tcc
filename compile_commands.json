@@ -1,0 +1,67 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "main.c"
+        ],
+        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "file": "main.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "codegeneratorf.c"
+        ],
+        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "file": "codegeneratorf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "parserf.c"
+        ],
+        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "file": "parserf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "lexerf.c"
+        ],
+        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "file": "lexerf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "hashmap/hashmapoperators.c"
+        ],
+        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "file": "hashmap/hashmapoperators.c"
+    }
+]
