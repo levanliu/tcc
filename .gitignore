@@ -4,3 +4,4 @@ generated.asm
 generated
 *.o
 *.asm
+.cache

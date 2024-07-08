@@ -7,10 +7,10 @@
             "-Wextra",
             "-o",
             "build/unn",
-            "main.c"
+            "codegeneratorf.c"
         ],
-        "directory": "/home/levan/cppProjects/unnamed-lang",
-        "file": "main.c"
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "codegeneratorf.c"
     },
     {
         "arguments": [
@@ -20,10 +20,10 @@
             "-Wextra",
             "-o",
             "build/unn",
-            "codegeneratorf.c"
+            "hashmap/hashmapoperators.c"
         ],
-        "directory": "/home/levan/cppProjects/unnamed-lang",
-        "file": "codegeneratorf.c"
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "hashmap/hashmapoperators.c"
     },
     {
         "arguments": [
@@ -35,7 +35,7 @@
             "build/unn",
             "parserf.c"
         ],
-        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "directory": "/home/levan/cppProjects/tcc",
         "file": "parserf.c"
     },
     {
@@ -48,7 +48,7 @@
             "build/unn",
             "lexerf.c"
         ],
-        "directory": "/home/levan/cppProjects/unnamed-lang",
+        "directory": "/home/levan/cppProjects/tcc",
         "file": "lexerf.c"
     },
     {
@@ -59,9 +59,9 @@
             "-Wextra",
             "-o",
             "build/unn",
-            "hashmap/hashmapoperators.c"
+            "main.c"
         ],
-        "directory": "/home/levan/cppProjects/unnamed-lang",
-        "file": "hashmap/hashmapoperators.c"
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "main.c"
     }
 ]
