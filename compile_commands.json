@@ -1,46 +1,7 @@
 [
     {
         "arguments": [
-            "gcc",
-            "-c",
-            "-Wall",
-            "-Wextra",
-            "-o",
-            "build/unn",
-            "codegeneratorf.c"
-        ],
-        "directory": "/home/levan/cppProjects/tcc",
-        "file": "codegeneratorf.c"
-    },
-    {
-        "arguments": [
-            "gcc",
-            "-c",
-            "-Wall",
-            "-Wextra",
-            "-o",
-            "build/unn",
-            "hashmap/hashmapoperators.c"
-        ],
-        "directory": "/home/levan/cppProjects/tcc",
-        "file": "hashmap/hashmapoperators.c"
-    },
-    {
-        "arguments": [
-            "gcc",
-            "-c",
-            "-Wall",
-            "-Wextra",
-            "-o",
-            "build/unn",
-            "parserf.c"
-        ],
-        "directory": "/home/levan/cppProjects/tcc",
-        "file": "parserf.c"
-    },
-    {
-        "arguments": [
-            "gcc",
+            "clang",
             "-c",
             "-Wall",
             "-Wextra",
@@ -53,7 +14,7 @@
     },
     {
         "arguments": [
-            "gcc",
+            "clang",
             "-c",
             "-Wall",
             "-Wextra",
@@ -63,5 +24,44 @@
         ],
         "directory": "/home/levan/cppProjects/tcc",
         "file": "main.c"
+    },
+    {
+        "arguments": [
+            "clang",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "codegeneratorf.c"
+        ],
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "codegeneratorf.c"
+    },
+    {
+        "arguments": [
+            "clang",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "hashmap/hashmapoperators.c"
+        ],
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "hashmap/hashmapoperators.c"
+    },
+    {
+        "arguments": [
+            "clang",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "build/unn",
+            "parserf.c"
+        ],
+        "directory": "/home/levan/cppProjects/tcc",
+        "file": "parserf.c"
     }
 ]
